@@ -1,0 +1,8 @@
+# テストチャートと測定結果は各自の環境で作る
+*.tif
+*.tiff
+*.icc
+*.layout.json
+*.html
+__pycache__/
+.DS_Store
